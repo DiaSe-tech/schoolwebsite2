@@ -1,0 +1,51 @@
+body{
+    background-color: azure;
+    
+}
+
+
+#contact iframe
+{
+    width: 100%;
+}
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+}
+ 
+#marquee{
+    font-size: 30px;
+    color: black;
+}
+    
+}
+
+h3{
+    font-size: 35px;
+    text-align: center;
+    font-family: fantasy;
+    color: blueviolet;
+}
+}
+.achievements_head{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+display: inline-block;
+    
+}
+.achievements_head i{
+    float: right;
+    
+}
+.achievements_text span{
+    color: greenyellow;
+}
+
+    
